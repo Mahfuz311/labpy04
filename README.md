@@ -3,9 +3,9 @@
 * CODE PROGRAM NILAI AKHIR
 * Flowchart
 ## CODE PROGRAM NILAI AKHIR
-* STEP 1: MENGENISIALISASI LIST DATA MAHASISWA
+## STEP 1: MENGENISIALISASI LIST DATA MAHASISWA
 * Program dimulai dengan menginisialisasi sebuah list kosong bernama data_mahasiswa untuk menyimpan data setiap mahasiswa. List ini akan diisi dengan data mahasiswa yang diinput selama program berjalan
-data mahasiwa
+
 ## STEP 2: INPUT DATA MAHASISWA DAN PERULANGAN WHILE
 * Program kemudian masuk ke dalam sebuah perulangan while yang memungkinkan pengguna untuk memasukkan data mahasiswa secara berulang hingga pengguna memilih untuk berhenti
 1. Nama mahasiswa
